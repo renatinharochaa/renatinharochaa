@@ -1,5 +1,5 @@
 # Boas vindas ao meu perfil 💕
-Meu nome é Renata 
+Meu nome é Renata Rocha
 
 
 - Estou estudando na Alura
